@@ -1,0 +1,12 @@
+<?php
+
+namespace {{ namespace }};
+
+enum {{ class }}: string
+{
+    public static function all(): array
+    {
+        return [
+        ];
+    }
+}
